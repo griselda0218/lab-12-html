@@ -1,0 +1,23 @@
+/* all paragraph texts are red */
+p {
+    color: red;
+    font-size: 12px;
+    text-decoration: line-through;
+}
+/* all h1 headers are green */
+h1 {
+    color: #329932;
+    text-transform: uppercase;
+}
+/* both h1 and h2 headers have dark green background */
+h1, h2 {
+    background-color: #194C19;
+}
+h2 {
+    text-decoration: underline;
+}
+/* target all elements (*) changes font */
+* {
+    font-family: sans-serif;
+}
+
