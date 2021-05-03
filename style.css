@@ -8,6 +8,11 @@ p {
 h1 {
     color: #329932;
     text-transform: uppercase;
+    margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 5px;
+
 }
 /* both h1 and h2 headers have dark green background */
 h1, h2 {
