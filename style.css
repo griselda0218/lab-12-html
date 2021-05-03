@@ -26,3 +26,14 @@ h2 {
     font-family: sans-serif;
 }
 
+/* ID selectors: border and slid and black*/
+#intro {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+/* class selectors */
+.spotlight {
+    background-color: #FEFE22;
+}
